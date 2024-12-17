@@ -3,6 +3,14 @@
 * Staff System Architect (Arm Cambridge)
   * https://careers.arm.com/job/cambridge/staff-system-architect/33099/73738113632
   * Solve challenging technical problems in next generation connected embedded devices
+    
+* Performance Analysis Engineer (Arm Cambridge)
+  * https://careers.arm.com/job/cambridge/performance-analysis-engineer/33099/70403495776
+  * Contribute to the future of automotive compute. Working on cutting edge automotive AI technology while collaborating with one of the most diverse and successful hardware and software ecosystem. This is a high impact customer facing role where you can make a real difference to the current and future automotive experience.
+
+* Hardware Performance Analysis Engineer (Arm Cambridge)
+  * https://careers.arm.com/job/sophia-antipolis/hardware-performance-analysis-engineer/33099/58496686992
+  * Explore, supervise and improve performance Cloud Server's SoC by joining one of the core team of Arm's engineers.
 
 * Staff Verification Engineer (Arm Cambridge)
   * https://careers.arm.com/job/manchester/staff-verification-engineer/33099/70349038096
@@ -16,14 +24,10 @@
   * https://careers.arm.com/job/cambridge/senior-fpga-implementation-engineer/33099/74466302320 
   * Deliver on the FPGA prototyping requirements of one or more sophisticated and highly configurable systems.
 
-* Performance Analysis Engineer (Arm Cambridge)
-  * https://careers.arm.com/job/cambridge/performance-analysis-engineer/33099/70403495776
-  * Contribute to the future of automotive compute. Working on cutting edge automotive AI technology while collaborating with one of the most diverse and successful hardware and software ecosystem. This is a high impact customer facing role where you can make a real difference to the current and future automotive experience.
-
 * Senior/Staff CPU Verification Engineer (Arm Cambridge)
   * https://careers.arm.com/job/cambridge/senior-staff-cpu-verification-engineer/33099/70595274672
   * working on innovative technology in a world-class team contributing to all phases of the verification flow.
 
-* Senior Embedded Software Engineer
+* Senior Embedded Software Engineer (Arm Cambridge)
   * https://careers.arm.com/job/cambridge/senior-embedded-software-engineer/33099/61362580960
   * Enhance and build upon your existing background, knowledge and expertise to contribute to the wonderful world of Open Source with projects such as EDK II, Linux Kernel, Trusted Firmware, SCP firmware and more!
