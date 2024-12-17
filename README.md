@@ -23,3 +23,7 @@
 * Senior/Staff CPU Verification Engineer (Arm Cambridge)
   * https://careers.arm.com/job/cambridge/senior-staff-cpu-verification-engineer/33099/70595274672
   * working on innovative technology in a world-class team contributing to all phases of the verification flow.
+
+* Senior Embedded Software Engineer
+  * https://careers.arm.com/job/cambridge/senior-embedded-software-engineer/33099/61362580960
+  * Enhance and build upon your existing background, knowledge and expertise to contribute to the wonderful world of Open Source with projects such as EDK II, Linux Kernel, Trusted Firmware, SCP firmware and more!
