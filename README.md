@@ -19,3 +19,7 @@
 * Performance Analysis Engineer (Arm Cambridge)
   * https://careers.arm.com/job/cambridge/performance-analysis-engineer/33099/70403495776
   * Contribute to the future of automotive compute. Working on cutting edge automotive AI technology while collaborating with one of the most diverse and successful hardware and software ecosystem. This is a high impact customer facing role where you can make a real difference to the current and future automotive experience.
+
+* Senior/Staff CPU Verification Engineer (Arm Cambridge)
+  * https://careers.arm.com/job/cambridge/senior-staff-cpu-verification-engineer/33099/70595274672
+  * working on innovative technology in a world-class team contributing to all phases of the verification flow.
