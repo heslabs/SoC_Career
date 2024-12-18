@@ -64,6 +64,10 @@
 * Interconnect RTL Design Engineer (Arm Austin)
   * https://careers.arm.com/job/austin/interconnect-rtl-design-engineer/33099/71133046624
 
+* SoC Debug/Telemetry Architect (Arm Austin)
+  * https://careers.arm.com/job/austin/soc-debug-telemetry-architect/33099/70116189088
+  * Design and implement SoC debug strategies, collaborate with teams, and resolve issues as a SoC Debug/Telemetry Architect
+
 * Automotive SoC Architect (Arm San Jose)
   * https://careers.arm.com/job/san-jose/automotive-soc-architect/33099/74496406880
 
