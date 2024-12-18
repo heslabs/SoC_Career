@@ -57,6 +57,12 @@
 
 ---
 
+* Principal Design Methodology Engineer (Arm Austin)
+  * https://careers.arm.com/job/cambridge/principal-design-methodology-engineer/33099/67883644896
+  * You will be responsible for the development, standardization and maintenance of our internal engineering flows that enable system design activities within the System Development team
+
+---
+
 * Staff Applications Engineer - Compute Subsystems (Arm Taiwan)
   * https://careers.arm.com/job/hsinchu/staff-applications-engineer-compute-subsystems/33099/67179596256
   * Interact with Arm's partners and become the expert in Arm IP and Subsystem products and leverage technical expertise.
