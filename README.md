@@ -42,3 +42,7 @@
 * Senior Embedded Software Engineer (Arm Cambridge)
   * https://careers.arm.com/job/cambridge/senior-embedded-software-engineer/33099/61362580960
   * Enhance and build upon your existing background, knowledge and expertise to contribute to the wonderful world of Open Source with projects such as EDK II, Linux Kernel, Trusted Firmware, SCP firmware and more!
+    
+* Software Engineer Machine Learning - Compilers (Arm Cambridge)
+  * https://careers.arm.com/job/cambridge/software-engineer-machine-learning-compilers/33099/62506725488
+  * Contribute to software solutions for Arm devices in an open source machine learning project as part of a collaborative and highly motivated team of machine learning engineers.
