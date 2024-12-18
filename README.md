@@ -61,6 +61,9 @@
   * https://careers.arm.com/job/cambridge/principal-design-methodology-engineer/33099/67883644896
   * You will be responsible for the development, standardization and maintenance of our internal engineering flows that enable system design activities within the System Development team
 
+* Interconnect RTL Design Engineer (Arm Austin)
+  * https://careers.arm.com/job/austin/interconnect-rtl-design-engineer/33099/71133046624
+
 ---
 
 * Staff Applications Engineer - Compute Subsystems (Arm Taiwan)
