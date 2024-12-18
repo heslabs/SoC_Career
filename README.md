@@ -64,6 +64,9 @@
 * Interconnect RTL Design Engineer (Arm Austin)
   * https://careers.arm.com/job/austin/interconnect-rtl-design-engineer/33099/71133046624
 
+* Automotive SoC Architect (Arm San Jose)
+  * https://careers.arm.com/job/san-jose/automotive-soc-architect/33099/74496406880
+
 ---
 
 * Staff Applications Engineer - Compute Subsystems (Arm Taiwan)
