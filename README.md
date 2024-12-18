@@ -1,5 +1,9 @@
 # Arm Cambridge
 
+* Principal SoC Design Engineer (Arm Cambridge)
+  * https://careers.arm.com/job/manchester/principal-soc-design-engineer/33099/67451956144
+  * Responsible for reviewing the SoC solution architecture, crafting the design micro architecture specifications, RTL development, fixing bugs, running various design checks, power constraints intent generation
+
 * Staff System Architect (Arm Cambridge)
   * https://careers.arm.com/job/cambridge/staff-system-architect/33099/73738113632
   * Solve challenging technical problems in next generation connected embedded devices
