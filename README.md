@@ -54,3 +54,9 @@
   * https://careers.arm.com/job/manchester/linux-tools-engineer/33099/63412920304
   * Support developers forge ahead in energy efficient computing, allowing you an in-depth view of the processes used by developers port to Arm and deliver highly performant applications. It is in a team work that we achieve success.
  
+
+---
+
+* Staff Applications Engineer - Compute Subsystems (Arm Taiwan)
+  * https://careers.arm.com/job/hsinchu/staff-applications-engineer-compute-subsystems/33099/67179596256
+  * Interact with Arm's partners and become the expert in Arm IP and Subsystem products and leverage technical expertise.
